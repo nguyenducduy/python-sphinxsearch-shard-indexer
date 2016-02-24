@@ -1,0 +1,1 @@
+# python-sphinxsearch-shard-indexer
